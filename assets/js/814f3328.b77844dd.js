@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkabsolutchat_documentation=self.webpackChunkabsolutchat_documentation||[]).push([[2535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/absolutchat-platform/blog/welcome"},{"title":"MDX Blog Post","permalink":"/absolutchat-platform/blog/mdx-blog-post"}]}')}}]);
