@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkabsolutchat_documentation=self.webpackChunkabsolutchat_documentation||[]).push([[5097],{7968:function(t){t.exports=JSON.parse('{"permalink":"/absolutchat-platform/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
