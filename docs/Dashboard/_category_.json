@@ -1,0 +1,8 @@
+{
+    "label": "Dashboard",
+    "position": 3,
+    "link": {
+        "type": "generated-index",
+        "description": "Learn more about the Absolutchat Dashboard and setup and creation of bots here."
+    }
+}
